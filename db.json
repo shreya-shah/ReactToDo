@@ -1,0 +1,16 @@
+{
+  "checklists": [
+    {
+      "task": "Task 1",
+      "done": false,
+      "date": "2021-02-26T07:08:33.166Z",
+      "id": 1
+    },
+    {
+      "task": "Task 2",
+      "done": false,
+      "date": "2021-02-26T07:33:45.686Z",
+      "id": 2
+    }
+  ]
+}
